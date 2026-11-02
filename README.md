@@ -1,3 +1,3 @@
 # agent-lab
 
-SuperAgent sandbox repository.
+SuperAgent 沙盒 repository.
